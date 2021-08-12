@@ -1,1 +1,3 @@
-# DSA-CPP-Coding-Ninjas
+# DSA CPP Coding Ninjas
+
+A work in progress
